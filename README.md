@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 💻 Programmet at [@campuscode](http://github.com/campuscode/)
+- 💻 Programmer at [@campuscode](http://github.com/campuscode/)
   
 
 ### Find me around at 🌎
