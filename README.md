@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="center">
+ <img width="100%" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</p>
+
+<samp>
+
+### Hi, I'm Henrique 👋
 
 <!--
 **HenriqueMorato/HenriqueMorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 💻 Programmet at [@campuscode](http://github.com/campuscode/)
+  
+
+### Find me around at 🌎
+
+- 🐦 [@henriquemorato](https://twitter.com/HenriqueMorato)
+- 💼 [linkedin.com/in/henriquemorato](https://www.linkedin.com/in/henriquemorato/)
+
+</samp>
